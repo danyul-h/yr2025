@@ -15,7 +15,7 @@ cells come in a variety of sizes, shapes, and forms
 
 # Diffusion Rate
 
-> #diffusion is the spreading of something from a region of higher concentration to a region of lower concentration
+> diffusion is the spreading of something from a region of higher concentration to a region of lower concentration
 
 * this refers to the rate at which molecules can move around in the cell
 * important because the molecules need to reach sites of specific cellular activities

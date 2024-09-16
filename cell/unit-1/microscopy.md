@@ -1,10 +1,10 @@
-> size of object = FOV / # of cells in diameter
-> FOV = Eyepiece (mm) / Obj. mag
-> Obj. magnification...
-> 	4x = 4.5mm (acc 40x)
-> 	10x = 1.8mm (acc 100x)
-> 	40x = 0.45mm (acc 400x)
-> 		(all 10x bc theres a second obj. mag)
+> - size of object = FOV / # of cells in diameter
+> - FOV = Eyepiece (mm) = Obj. mag
+> - Obj. magnification...
+> 	- 4x (40x) = 4.5mm 
+> 	- 10x (100x) = 1.8mm 
+> 	- 40x (400x) = 0.45mm 
+> 		- (all 10x bc there's a second obj. magnifier)
 # light microscope
 * earliest tool for studying cells ([[strands|cytology]])
 * allowed identification of membrane-bounded structures
@@ -38,12 +38,12 @@
 * uses video cameras and computer storage
 * allows computerized image processing to enhance and analyze images
 
-> a highly light-sensitive video camera attached to a light microscope can observe cells for extended periods of time with low levels of light
-> this is called *image intensification*, which is useful alongside a florescence microscope
+> - a highly light-sensitive video camera attached to a light microscope can observe cells for extended periods of time with low levels of light
+> - this is called *image intensification*, which is useful alongside a florescence microscope
 
-> *computerized image processing* involves a computer processing signals from the camera
-> the computer compensates for optical flaws in the microscope and enhances contrast between object and background
-> this helps see small transparent objects that are difficult to distinguish form the background
+> - *computerized image processing* involves a computer processing signals from the camera
+> - the computer compensates for optical flaws in the microscope and enhances contrast between object and background
+> - this helps see small transparent objects that are difficult to distinguish form the background
 
 # electron microscope
 * light microscope has a limit of resolution caused by the wavelength of the light used to view the sample

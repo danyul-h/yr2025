@@ -1,5 +1,5 @@
-> in class lecture, sept 10, 2024
-> video reenactment
+> - in class lecture, sept 10, 2024
+> - includes notes on video reenactment
 
 * became universal leader
 * ruler of all men

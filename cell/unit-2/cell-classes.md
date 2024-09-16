@@ -43,11 +43,11 @@
 * archae is a greek prefex meaning "ancient"
 * these are modern descendants of an ancient prokaryote--one differing from the ancestors of eubacteria
 * present-day archaebacteria can be subdivided into methanobacteria, halobacteria, and sulfobacteria
-	#methanobacteria - obtain energy by converting carbon dioxide and hydrogen into methane gas
-	#halobacteria - can grow in salty environments up to 5.5M NaCl
-	#sulfobacteria - obtains energy from sulfur-containg compounds
+	* methanobacteria - obtain energy by converting carbon dioxide and hydrogen into methane gas
+	* halobacteria - can grow in salty environments up to 5.5M NaCl
+	* sulfobacteria - obtains energy from sulfur-containg compounds
 * some archaebacteria are also thermacidophiles
-	#thermacidophiles - thrive in acidic hot springs with pH as low as 2 and temperatures that can exceed 100 degrees Celsius
+	* thermacidophiles - thrive in acidic hot springs with pH as low as 2 and temperatures that can exceed 100 degrees Celsius
 
 ## - Eubacteria
 * includes most of the commonly encountered bacteria

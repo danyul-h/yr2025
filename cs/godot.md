@@ -1,5 +1,3 @@
-> this will cover notes regarding godot
-
 # collisions
 * collision layer refers to where the node is *located*
 * collision mask refers to where the node *observes*

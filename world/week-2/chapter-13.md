@@ -1,10 +1,7 @@
-
 > **Mongol Eurasia and Its Aftermath**
-> this chapter covers the [[genghis-khan|mongols]], china's empires, and [[east-asia|east asia]]
-
+>- this chapter covers the [[genghis-khan|mongols]], china's empires, and [[east-asia|east asia]]
 # mongols
 > extra about the kushans [[silk-road#the mongols|here]]
-
 ### - nomadism
 * mongols put infants on goats to acustom them to riding
 * nomadism required firm decision making
@@ -51,8 +48,8 @@
 		* the ruler made a lot of provocations
 
 > **mongol domains**
-> Russia -> Golden Horde
-> Central Asia -> Chagatai domains
+> - Russia -> Golden Horde
+> - Central Asia -> Chagatai domains
 
 * Ogodei wanted a united empire based at his capital, Karakorum
 * he controlled these domains until his death
@@ -68,9 +65,9 @@
 	* this also influenced the spread of Islam
 
 > **yuan vs vietnam**
-> the yuan destroyed the souther song dynasty in 1279
-> they moved to attack dai viet (northern vietnam)
-> then in 1283, invaded Champa (south vietnam)
+> - the yuan destroyed the souther song dynasty in 1279
+> - they moved to attack dai viet (northern vietnam)
+> - then in 1283, invaded Champa (south vietnam)
 
 * the mongols sufered a defeat
 * so khubilai switched focus from japan to focus on the viet kingdoms
@@ -126,9 +123,9 @@
 * before mongol attacked the middle east, some of them professed Islam
 
 > **islamic doctrine vs. mongol law**
-> muslims were against the mongol beliefs of shamanism + buddhism
-> mongol law killed animals without spilling blood
-> yet, muslims were forbidden to consume blood and drained animal blood
+> - muslims were against the mongol beliefs of shamanism + buddhism
+> - mongol law killed animals without spilling blood
+> - yet, muslims were forbidden to consume blood and drained animal blood
 
 * Batu's successor and leader of the Golden Horde declared to be a muslim
 	* this rose the tension between islam + mongols
@@ -161,11 +158,11 @@
 * more army/nobles -> more demands -> more gov land -> shrunk tax base
 
 > **ghazan's attempts at economy**
-> ghazan tried to solve il-khans many economic problems but failed
-> he reduced taxes, but this was simply temporary
-> he tried to print more money like his predecessors, but his subjects responded negatively
-> an economic depression started, and it lasted beyond the end of the il-khan state
-> mongol nobles also fought over the lessening revenue, destabilizing the gov
+> - ghazan tried to solve il-khans many economic problems but failed
+> - he reduced taxes, but this was simply temporary
+> - he tried to print more money like his predecessors, but his subjects responded negatively
+> - san economic depression started, and it lasted beyond the end of the il-khan state
+> - mongol nobles also fought over the lessening revenue, destabilizing the gov
 
 ### - the arts
 * il-khans and timurids had blended iranina and chinese culture
@@ -173,16 +170,16 @@
 * Instead he transplanted Middle Eastern people to foster cultrural achievements of his descendants
 
 > **Juvaini**
-> this was the historian that record Chinggis Khan's deathbed speech
-> he came from the city of Balkh that was destroyed by the mongols in 1221
-> he switched allegiance and evenually was supported by hulegu
-> he though of writing the narrative of Chinggis Khan's empire
+> - this was the historian that record Chinggis Khan's deathbed speech
+> - he came from the city of Balkh that was destroyed by the mongols in 1221
+> - he switched allegiance and evenually was supported by hulegu
+> - he though of writing the narrative of Chinggis Khan's empire
 
 > **Rashid al Din**
-> he was Ghazan''s prime minister, and inspired by Juvaini
-> he attempted the first history of the world
-> he traveled widely and collaborated with administrators form other parts of the mongol dominions
-> his work included conversations, and paintings that depicted both Europe's and China's culture
+> - he was Ghazan''s prime minister, and inspired by Juvaini
+> - he attempted the first history of the world
+> - he traveled widely and collaborated with administrators form other parts of the mongol dominions
+> - his work included conversations, and paintings that depicted both Europe's and China's culture
 
 * the tradition of il khan historians continued under the timurids
 * timur himself met the greatest historian of the age, **Ibn Khaldun**
@@ -216,9 +213,9 @@
 	* the Crimean khanate help onto the northern shore of the Black Sea until 1783
 
 > **golden horde's economy**
-> like the il khans, they tried to introduce paper money
-> this was unsuccessful
-> rather than currency transactions, commerce depended more on direct exchange of goods
+> - like the il khans, they tried to introduce paper money
+> - this was unsuccessful
+> - rather than currency transactions, commerce depended more on direct exchange of goods
 
 * decentralization began...
 	* Alexander Nevskii, prince of Novgorod
@@ -229,4 +226,4 @@
 	* however more burden came from russian princes who shifted taxes to the peasants and away from their own lands
 * The capital of Ukraine, Kiev, ceased to mint coins as Moscow took attention
 
-
+> these notes are uncomplete, only covers half the chapter, and it will likely stay that way...

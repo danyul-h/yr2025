@@ -1,6 +1,6 @@
 > **Networks of Communication and Exchange**
-> this chapter examines the social systems and historical impact of exchange networks that developed between 300 BCE and 1100 CE in Europe, Asia, and Africa
-> these networks include the [[#silk road]] and [[#indian ocean maritime system]]
+> - this chapter examines the social systems and historical impact of exchange networks that developed between 300 BCE and 1100 CE in Europe, Asia, and Africa
+> - these networks include the [[#silk road]] and [[#indian ocean maritime system]]
 # chronology
 * silk road
 	1. 247 BCE: Parthian rule begin
@@ -230,24 +230,18 @@
 * imitates Aksumite architecture
 
 # vocab
-#cosmopolitan - to describe someone who is familiar/at ease w/ different cultures + countries
-#steppes - ecological regions of grass/shrub covered plains--this is too treeless + arid for agriculture
-#savanna - an area of grassland with scattered trees and bushes
-#tropical_rain_forest - an jungle/forest with a lot of rain + low change in temp + high organism diversity 
-#great_traditions - complex beliefs over a broad area--this may include written language, legal/belief systems, ethical codes
-#small_traditions - localized set of customs adhered to by a single society
-#missionaries - people who spread their religious beliefs to others
+* cosmopolitan - to describe someone who is familiar/at ease w/ different cultures + countries
+* steppes - ecological regions of grass/shrub covered plains--this is too treeless + arid for agriculture
+* savanna - an area of grassland with scattered trees and bushes
+* tropical rain forest - an jungle/forest with a lot of rain + low change in temp + high organism diversity 
+* great traditions - complex beliefs over a broad area--this may include written language, legal/belief systems, ethical codes
+* small traditions - localized set of customs adhered to by a single society
+* missionaries - people who spread their religious beliefs to others
 
 # conclusion
-
-> the commonality of Africa was not attributed to the other networks in the Sahara, Indian Ocean, nor Silk Road
-
-> transportable goods, new ideas, new technologies, livestock, and agricultural products changed people lives--and they were facilitated by these trade systems
-
-> the lifestyle of nomads, traders, seafarers was quite isolated--reluctance to share knowledge with potential competitors increased this
-
-> yet, the bantu went against this, and supposedly spread the iron implemented lifestyle and new techniques with intent
-
-> the trade systems brought diversity through new products and ideas; the bantu brought a degree of cultural dominance
-
-> ideas and religion spread was far more impacted by trade systems however--"great traditions" linked believers over distances, and merged with "small traditions" to meet their needs 
+> - the commonality of Africa was not attributed to the other networks in the Sahara, Indian Ocean, nor Silk Road
+> - transportable goods, new ideas, new technologies, livestock, and agricultural products changed people lives--and they were facilitated by these trade systems
+> - the lifestyle of nomads, traders, seafarers was quite isolated--reluctance to share knowledge with potential competitors increased this
+> - yet, the bantu went against this, and supposedly spread the iron implemented lifestyle and new techniques with intent
+> - the trade systems brought diversity through new products and ideas; the bantu brought a degree of cultural dominance
+> - ideas and religion spread was far more impacted by trade systems however--"great traditions" linked believers over distances, and merged with "small traditions" to meet their needs 
