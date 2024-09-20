@@ -110,4 +110,55 @@
 * mills were powered by water / wind
 	* ground grain, saw logs, crush olives, operate bellows, pound linen rags for paper
 	* watermills multipled faster rate than population
-* water mill designs are connected to the ROmans, Islamic world, and Hellenistic technologies
+* water mill designs are connected to the Romans, Islamic world, and Hellenistic technologies
+* however in muslim lands, animal power made more sense
+	* oxen + camels were cheaper
+	* plus the arid wastes provided free grazing
+	* these predominated in muslim lands
+* in europe, *miller* became a family name
+	* grain farmers grew human + animal food
+	* population growth -> increased cost of animal energy
+	* they invested in wind and water mills, returning great profits because they ran on nature
+	* millers often drew jealousy, having a reputation of scamming in stories
+* waterpower aided in iron making expansion, powering all the technologies essential to it
+* alongside iron, there were new silver, lead, and copper mines in Austria and Hungary
+	* deep mining techniques developed in central Europe, spreading west
+* industrial growth changed the landscape
+	* new towns + outward growth
+	* dams and canals changed river flows
+	* quarries and mines carred the hillsides
+	* streams were polluted by the growth of factories
+	* deforestation accelerated
+		* trees could be used for buildings, ships, tanning leather, farmland, charcoal
+
+# urban revival
+* 10th century, latin europe couldn't compete in size, wealth or comfort with islam and byzantium cities
+* in the middle ages, this changed when port cities turned wealthy in the Mediterranean, Baltic, and Atlantic coasts
+* new churches guild halls, and residences showed commerical, cultural, and administrative dynamism
+* post 1200, most urban growth was from manufacturing and trade
+	* these included between cities,
+	* over long distances,
+	* maritime (northern italy -> mediterranean),
+	* regional networks (northern europe -> mediterranean)
+* venice attacked the city of Constantinople
+	* this removed byzantine control of passages
+	* thus venice could expand its trading colonies
+* mongol expansion eliminated middlemen by opening trade routes
+* Genoa, north of Italy's west coast, was equal to Venice
+	* Genoese merchants established colonies in the western and eastern Mediterranean and around the Black Sea
+* in northern europe was the Hanseatic League
+	* traded a lot in the Baltic
+	* merchanges ranged eastward to Novgorod in Russia,
+	* and westward across the North Sea to London
+* by late 13th century, Geonese galleys + Hanseatic ships converged in Flanders
+
+### - wool
+* raw wool from england was turned into a soft + smooth fine cloth
+* then they would be dyed in vivid hues
+* this was done by Flemish artisans
+* 14th century, they became cheap to ship due to large volume of trade
+	* the city of Champagne came under control of the France
+	* this turned from simple markets to internation fairs,
+	* becoming a place important for currency exchange
+ 
+> these notes are unfinished 
