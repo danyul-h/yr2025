@@ -104,7 +104,10 @@
         * others grew crops easier to maintain
     * in urban areas, employers raised wages to attract workers
 
-### - milling + mining
-* mining, metalworking, and craft mechanization all expanded 
+### - industrial growth
+* mining, metalworking, and craft mechanization all expanded in the centuries before 1500
     * primarily in Germany and east-central Europe
-
+* mills were powered by water / wind
+	* ground grain, saw logs, crush olives, operate bellows, pound linen rags for paper
+	* watermills multipled faster rate than population
+* water mill designs are connected to the ROmans, Islamic world, and Hellenistic technologies
