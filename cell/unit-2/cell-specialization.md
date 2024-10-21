@@ -10,7 +10,10 @@
 * the embryonic stem cells (stem cells in an embryo) can develop into *any* tissue type
 * adult stem cells can only develop into a handful of mature cell types
 	* these kinds of cells can be found in bone marrow
-
+* there are different types of "potency" to stem cells
+	* totipotent - can be any adult or embryo cell
+	* puripotent - can be any adult cell
+	* multipotent - can be any cell in a specific lineage
 ### differentiation
 * stem cells develop through differentiation
 * cell communication is related to differentiation...

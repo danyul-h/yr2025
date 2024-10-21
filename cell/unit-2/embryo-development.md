@@ -6,7 +6,7 @@
 * the cells inside the morula then gets compacted / tightly bound together
 
 # blastulation
-> the latest stage in which you can find embryonic stem cells (blastula)
+> the latest stage in which you can find embryonic stem cells (blastula) b/c its before the trilaminar disk
 * morula's outer cells differentiate into trophoblasts
 * morula's inner cells turn into embryoblasts
 * during blastulation, the embryoblasts cluster to one end of the embryo
@@ -34,7 +34,7 @@
 	* these middle cells become the mesoderm layer
 	* then the top layer of epiblasts become ectoderm cells
 * finally, these three germ layers together are called the trilaminar disk
-* the embryo is in its gastrula stage now
+* ***the embryo is in its gastrula stage now***
 
 # neurulation
 * the mesoderm rearranges to form the notochord
@@ -45,6 +45,7 @@
 * now the whole trilaminar disk is called the "neurula"
 
 # organogenesis
+>neural system -> limb buds -> eyes
 * develops the three germ layers to different structures of the fully formed organism
 * ectoderm
 	* skin, nails hair
