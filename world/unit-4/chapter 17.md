@@ -62,7 +62,7 @@
 * everything spread so well bc...
 	* luther was german-born, and he found most success with german speakers
 	* peasants and urban laborers could defy their masters with the adoption of a diff. faith
-	* and Protestaants rejected trad. of celibate priests + nuns + advocated marriage for all adults
+	* and Protestants rejected trad. of celibate priests + nuns + advocated marriage for all adults
 ### counter-Reformation + politics of religion
 * aka. Catholic Reformation
 * catholic church started internal reforms after protestant attack
@@ -128,7 +128,7 @@
 	* Galileo argued that the bible should be reinterpreted to match the scientific findings
 	* Galileo was forced to reject his own findings after being confined + tortured
 	* catholic church was an opp. of new science
-* still printed books spread the new wideas
+* still printed books spread the new ideas
 * Rene Descartes, furthered physics + calculus w/ algebra + geometry
 * Robert Boyle, a founder of modern chemistry, demonstrated air was necessary for sound transmission--he advocated for experiments
 * Royal Society, promotes science and experiments--motto is "Nullius in Verba"/"Nothing in Words"
@@ -172,7 +172,7 @@
 	* they worked long, put profit back into their businesses, but could be comfortable if they wanted
 * the dutch were examples of these ppl--estimated that they did more than half of all oceangoing commercial shipping in the world in 17th century
 * dutch = netherlands = holland = amsterdam
-	* amsterdam was  hollands largest city
+	* amsterdam was hollands largest city
 	* europe's major port too!
 * they also introduced the fluit/'flyboat"
 	* this was a new inexpensive ship design
@@ -194,7 +194,7 @@
 	* innovated by italy, transferred to north west europe in 16th century
 * amsterdam was europe's greatest stock market in 17th & 18th centuries
 * dutch helped w/ these by creating monopoly commercial enterprises
-	* these were granted monopolies for trade w the easat + west indies
+	* these were granted monopolies for trade w the east + west indies
 	* these companies then sold shares to indiv.s to raise sums for overseas enterprises
 	* the risk + profit was spread throughout the investors
 * france and england soon did the same
@@ -285,7 +285,7 @@
 * an integrated european empire was blocked from dynastic ambitions and other circumstances
 * habsburg was a powerful family of austria
 	* provided made emperors for the holy roman empire
-* Charles V (Charles I of Spain) sought to turn back advance of Islam on europe's mediterranean flank
+* Charles V from habsburg (Charles I of Spain) sought to turn back advance of Islam on europe's mediterranean flank
 	* also wanted to contend with france for dominance of italy
 	* beginning of reformation, redirected resources for counter-reformation
 	* these religious wars drained his treasury
@@ -328,16 +328,15 @@
 	* but he also didnt share the power
 * Charles II came, then James II
 	* James II didnt respect parliament rights either
-	* and he baptized his heir as a romn catholic
+	* and he baptized his heir as a roman catholic
 	* so he was exiled and forced from the throne
 	* this happened thanks to the bloodless glorious revolution of 1688
 * James was replaced by his daughter Mary and her husband William of Orange
 * the bill of rights of 1689 formalized a new constitutional order
 	* required the king to call on parliament frequently to consent to changes in laws or raise an army in peacetime 
-
 ### french monarchy
-* estates general waas like the english parliament
-	* represented the trad. rights of the clergy, nmobility, and towns
+* estates general was like the english parliament
+	* represented the trad. rights of the clergy, nobility, and towns
 	* asserted their rights during the 16th century french wars of religion
 		* this was when the monarchy was weak
 * they werent called into session after the war
@@ -350,7 +349,6 @@
 	* this could house 10k ppl
 	* became a symbol of royal grandeur + power over the nobility
 	* allowed more intense interactions with the monarch in cycle of rituals n ceremonies
-
 ### warfare n diplomacy
 * beyond civil wars, states fought international conflicts to extend colonial empires
 * so major european nations were almost always at war
@@ -366,7 +364,7 @@
 	* fortifications expanded
 	* thus they steadily became the most powerful in the world
 	* number of armed forces also increased
-* but still there was relience on nobility
+* but still there was reliance on nobility
 	* rather than skill, patronage was basis for promotion
 * england was safe from the threat of direct invasion, so it did not maintain a standing army
 	* it depended on the navy instead
@@ -393,7 +391,7 @@
 	* another thing that worked, had a bubble
 * money was just being printed and printed--it was easier to do that than collect taxes!
 * however fear in paper money led to the paper wealth disappearing in matters of days in 1720
-	* law ran and french gov had to face the crisis once more
+	* john law ran and french gov had to face the crisis once more
 * south sea company of england had exclusive rights to trade w/ spanish colonies
 	* wasn't actually profitable, but investors believed it was
 	* helpd gov. turn debt into shares
