@@ -346,7 +346,7 @@
 		* however french debt levels challenged trad. fiscal practices
 * absolutism described the power of french monarchs during them, but louis xiv was the most powerful of them and negotiated his politices with authorities
 * louis xiv moved his court to a palace at versaillies
-	* this could house 10k ppl
+	* this could house 10k ppl--gigantic
 	* became a symbol of royal grandeur + power over the nobility
 	* allowed more intense interactions with the monarch in cycle of rituals n ceremonies
 ### warfare n diplomacy
