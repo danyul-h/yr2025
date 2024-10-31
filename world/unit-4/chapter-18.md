@@ -210,4 +210,6 @@
 	* similar to mestizos
 * castas, mix of amerindians n africans
 # english n french colonies in north america
-* 
+* english n french were similar to spain n portugal
+	* but they were developed a century later
+	* during this time england n france were distracted by other ventures
