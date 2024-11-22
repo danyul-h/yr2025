@@ -33,7 +33,7 @@
 		* shortage of labor
 			* thus couldnt clear land n plant tobacco
 	* implementation...
-		* turned poor europeans into indentured servants for the oclonies
+		* turned poor europeans into indentured servants for the colonies
 			* ~3-4 years each
 * tobacco competition (virginia n caribbean)
 	* both colonies started w/ indentured servents n tobacco

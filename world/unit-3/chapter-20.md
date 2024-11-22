@@ -71,7 +71,7 @@
 	* a muslim trader would be charged 15% for duties n feeds
 	* a christian trader would be 3%
 	* these were granted as favors by sultans
-	* but they led to europeaan domination of ottoman seaborne trade
+	* but they led to european domination of ottoman seaborne trade
 # safavid empire
 # mughal empire
 # russian empire
