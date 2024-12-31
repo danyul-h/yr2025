@@ -163,4 +163,15 @@
 		* water + sewer systems
 		* parks + schools
 * deforestation
-	* 
+	* alr no wilderness areas in britain and west europe
+		* towns, farms, etc.
+	* ppl kept cutting timber
+		* for ships
+		* houses
+		* heating
+		* manufacturing
+	* led to seizing land from natives
+		* made it low cost for farmers
+	* wood became more expensive
+	* wood objects -> iron objects
+* 
