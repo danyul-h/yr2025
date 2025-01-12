@@ -324,3 +324,216 @@
 	* made of maya rebels that retreated to unoccupied territories
 	* resited mexican forces until 1870
 # the challenge of social and economic change
+### abolition of slavery
+* those against slavery were abolitionists 
+	* argued slavery offended Christian morality
+	* same w universal rights in declaration of indep
+		* women n free african americans were the two groups denied full rights under constitution
+		* but these were the leaders in the abolition of slavery
+* slavery survived in most of the western hemisphere until 1850s
+	* difficult bc plantation products were important in certain regions
+	* first weakened in us bc was abolished in northern states and end of african slave trade
+	* but cotton agriculture still expanded
+	* slaves in spanish america gained freedom by joining rev armies
+		* eventually led to prohibition of slave trade in spanish america
+### civil war
+* republican party forms -> confrontation between slave and free states
+* abraham lincoln wins the election -> 11 south states seceded from the union
+* 10k+ black freemen n escaped slaves joined union army -> pressure for emancipation
+* lincoln issues emancipation proclamation in 1863 -> ending slavery in rebel states
+* thirteenth amendment abolishes slavery completely in 1865
+* jim crow laws segregasted still
+### brazil
+* slavery survived >20 yrs after abolition in us
+	* but britain, brazils major trading partner, wanted it to end in 1807
+	* brazil agreed, but still continued slave trade
+	* british navy had to force compliance in 1850s
+* pedro ii
+	* brazilian emperor
+	* worked to abolish slavery w liberals
+* brazils war w paraguay
+	* large number of slaves joined brazil for freedom
+	* convinced brazil of injustice of slavery
+	* educated also saw it as obstacle to economic development and democratic reform
+	* more slaves fled masters
+	* more officers resisted demands to capture runaways
+* brazil abolished slavery in 1888
+* brazil monarchy was ended in 1889
+### caribbean
+* plantation economy
+* received 40% of afrrican slaves shipped to new world
+* tiny white minorities
+* slave and free colored majorities
+* slave rebellion in saint domingue scared slave owners
+	* they thought that any effort of overthrowing colonial rule meant slave rebellions
+	* thus little local support for abolition
+		* abolition in these colonies would only really result from decisions made in europe by imperial governemnts
+* slave rebellions made clear that slaves recognized the injustice
+	* notably haiti, jamaica, cuba
+* sugar plantation profit went down -> british labor unions pushed for abolition
+	* britain ended its participation in slave trade in 1807
+	* negotiated treaties w other improters of slaves to eliminate slave trade
+		* spain, brazil
+	* also used its naval forces
+* abolition in british colonies
+	* occured 1834
+	* but "freed" slaves were compelled to remain w masters as "apprentices"
+	* but complete abolition was achieved in 1838 w resistance
+* france abolished slavery in caribbean colonies in 1848
+* slavery lasted longest in spain's colonies (cuba, puerto rico)
+	* but here local forces secured abolition
+		* rather than britain's diplomatic pressure
+	* these had lawrger white n free color pop than britain and france colonies
+		* little fear that abolition = political ascendancy of slaves
+### immigration
+* colonial period
+	* european immigrants were a minority (western hemisphere context)
+	* african slave imports outnumbered them by 2:1
+* african slave trade ended in 1850s -> millions of europeans and asians immigrated to western hemisphere
+	* this wave fostered rapid econ growth
+	* also fostered territorial occupation
+	* fast growing cities were very diverse
+* majority of immigrants were european
+	* initial most came from west europe
+	* post 1870 most came from south and east europe
+	* attracted to rich exporter of agricultural products
+		* i.e. argentina
+	* discrimination
+		* italians were thought as criminals or anarchists
+		* spaniards thought as dishonest
+		* jews barred from education and careers
+* asian immigrants
+	* china and india arrived w indenture contracts
+	* worked at plantation zones for a set term in caribbean
+		* few legal protections and brutal manual labor
+	* had more obstacles than europeans
+		* faced more violence n discrimination
+	* anti chinese riots erupted in 1870s n 1880s in west us
+		* then surfaced in canada, peru, mexico, and cuba
+	* same thing w japan in brazil and east indians in caribbean
+* hostility to immigration increased
+	* nativist political movements argued to was impossible to integrate such large numbers
+	* fear n prejudice led many gov to limit immigration
+	* began to distinguish immigrants as "desirable" or "undesirable"
+		* europeans were favored over asians
+* leaders n intellects wondered if mix of culture could sustain common citizenship
+	* so assimilation occured
+	* schools transmitted local cultural info into immigrants
+### acculturation
+* immigrants still came despite discrimination
+* along they brought new lang, tech, customs
+* they altered politics
+* most immigrant groups created ethnically based organizations
+* immigrants also changed w experiences in their new nations
+* acculturation
+	* the modifcation of lang, customs, values, behavior as a result of contact w ppl from another culture
+* so they changed local cultures too
+	* lang 
+	* music
+	* political n labor movements
+### womens rights
+* womens rights convention in ny
+	* 1848 
+	* occured bc they were excluded from international antislavery meeting for discussing women rights
+	* some focused on econ indep and legal rights
+	* other demanded right to vote
+	* better working conditions for women working outside
+* equally slow in canada and in latin america
+* progress was more rapid in lower status careers
+	* bc they didnt threat male econ power directly
+* gender relations changed
+	* by the end of 19th century...
+	* lots of poor women worked outside the home
+		* farms
+		* markets
+		* factories
+	* they began to have full responsibility of providing for their children
+### discrimination
+* little progress of eliminating racial discrimination in the 19th century
+	* blacks were denied voting in south us
+	* faced segregation
+		* separate schools, hotels, restaurants, public transport, water fountains
+* latin america discrimination
+	* still existed
+	* but wasnt very formal segregation
+	* and didnt permit lynching
+	* ppl were still able to enter skilled working class or middle class despite racial backgrounds
+	* but they still werent given full citizen rights
+		* couldnt vote
+		* less economic opportunityu
+		* less access to education
+### raw materials
+* western hemisphere became far richer in 1900 than in 1800
+* economic expansion stimulated by
+	* industrial rev
+	* worldwide pop growth
+	* increased world market integration
+* new exports
+	* wheat
+	* corn
+	* wool
+	* meats
+	* nonprecious minerals
+	* all govs promoted new industries n tech
+		* but us was only to industrialize
+		* govs invested in roads, railroads, canals, telegraph systems
+			* supported distant markets
+		* adopted tariff and monetary policies
+			* foster economic diversification
+* western henmisphere didnt rly have same income as west europe tho
+	* only us, canada, and argentina matched their indiv income levels
+	* all these three had open land, temperate climates, diverse resources, and influx of immigrants
+* new demands from industrial rev -> mining booms (in us, mexico, bolivia, chile)
+	* copper
+	* zinc
+	* lead
+	* coal
+	* tin
+* mining companies were international and bullied govs and bought political favors
+* govs had to depend on foreign capital
+	* for the high cost of new tech
+	* govs promoted railroads by
+		* granting tax benefits
+		* free land
+		* monopoly rights to domestic n foreign investors
+	* so a lot of the land were producing for foreign markets due to railroads
+* new tech helped make the impossible possible
+	* such as reaching a distant market (argnetina -> europe)
+### development n underdevelopment
+* these r two distinct econ tracks
+* development -> industrialization n prosperity
+	* us
+		* independence as world econ grew
+		* large merchant fleet
+		* diverse econ
+		* immigration -> rapid pop growth
+		* landownership
+		* high literacy rates
+	* canada
+		* confederation of 1867, achievement of greater poli autonomy
+			* coincided w 2nd global econ expansion
+		* traded w britain
+		* so they benefitted a lot
+* underdevelopment -> depended on exporting raw mat n low wage industries
+	* latin america
+		* gained independence when world econ contracted :(
+		* originally colonies with promoted prod of agri and mine exports
+			* these exports faced inc comp after indep
+		* suffered oversupply and low prices
+		* govs resisted unions and demands for higher wages
+### altered environments
+* econ development changed the environment of west hemisphere
+* cuba cut down island forests -> expand sugar prod
+* growing demand for meat -> ranches raised livestock in fragile environments
+	* argentine
+	* uruguay
+	* south brazil
+	* south west us
+* farmers wanted short term inc in cotton prod -> abandoned crop rotation -> caused soil exhaustion n erosion
+	* south carolina n georgia
+* brazil coffee planters overplanted and cut and burned forests for expansion
+* land transfered from public to private ownership
+* new tech (ie steel plows) eliminated native grasses and inc soil erosion
+* rapid urbanization = environmental costs
+	* lack of sewers, clean water,m garbage disposals
+	* timer had to be cut for housing, paper, fuel, etc
