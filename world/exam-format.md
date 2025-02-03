@@ -28,3 +28,8 @@
 	* analysis and reasoning (2 pt)
 		* one for explaining how 3 documents support your thesis
 		* one point for demonstrating complex understanding of the historical development
+* bramble's grading
+	* use 5 docs from list
+	* use 1 from outside
+		* maybe frederick douglass
+		* 

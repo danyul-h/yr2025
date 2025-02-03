@@ -1,6 +1,8 @@
 # prompt
 * analyze ways in which black people sought their freedoms in the atlantic world during the period 1550 to 1800
-### doc1 (ran away)
+# thesis
+* in the atlantic world during the period 1550 to 1800, 
+### doc1 (ran away) good, connect to fredrick douglass
 * thomas gage
 	* english catholic priest
 	* account of his stay in colonial central america from 1625 to 1637
@@ -8,12 +10,12 @@
 	* feared maroons (runaway slaves)
 * maroons
 	* lived in woods
-	* fled spanish guatemala n their masters
+	* fled spanish guatemala n their masterhhs
 	* increased daily
 	* evaded the power of guatemala n subjugation
 	* enjoy liberty the spaniards would never grant them
 	* bows and arrows for weapons
-### doc2 (bought)
+### doc2 (bought) good, corroborated by doc5
 * jane eltonhead
 	* slaveholder
 	* widow of wealthy planter
@@ -42,7 +44,7 @@
 	* claims to have been born of a free mother and free father
 * both sides were heard
 * court decides babet and all her children free and emancipated
-### doc5 (bought)
+### doc5 (bought) good, corroborated by doc2
 * ventur smith
 	* wrote *a narrative of the life and adventures of a native of africa: but resident above sixty years in the usa, related by himself*
 	* discusses events in 1750s, published 1798
@@ -69,7 +71,7 @@
 	* bring up religion
 		* they are under the necessity of obeying man
 		* but then it opposes laws of god, or ignores it
-### doc7 (soldier)
+### doc7 (soldier) good
 * earl of dunmore
 * british governor of virginia
 * proclamation
