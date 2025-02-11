@@ -1,0 +1,52 @@
+- [ ] *introduce selves n app*
+- [ ] *talk about libraries*
+	- [ ] *eclipse ide, coding in java and creating the gui*
+	- [ ] *itext lib, create our outputted reports*
+	- [ ] *jfreecharts, creating our charts to show trends*
+	- [ ] *jcalendar, implemented to help users easily select dates*
+	- [ ] *github, for collaboration amongst each other, and leave our code open-source*
+	- [ ] *mysql server connected to our code to store data onto a relational database*
+	- [ ] *flaticon to source our icons used in the app*
+	- [ ] *draw.io to create a uml diagram for documentation*
+- [ ] **documentation is important, so we have a readme uploaded**
+	- [ ] **mention qr code @ end**
+	- [ ] **users can find a description and our contributors**
+		- [ ] **including the creators of the icons we sourced**
+- [ ] **continuing documentation, we created a uml diagram**
+	- [ ] **these help us plan and break up our app into modular designs**
+		- [ ] **we have multiple java classes, its important that our code isn't all in one big file**
+	- [ ] **it also shows the different data structures and data types in or code**
+		- [ ] **for example, we have arraylist to reference a collection of our user's transactions (in the app class)**
+		- [ ] **we also use maps to pair categories with their expenses and incomes, helping us show trends in the categories (piepage class)**
+- [ ] **additionally, we improve the documentation process by leaving comments so that anyone can understand our code**
+	- [ ] **explain the example commented code**
+- [ ] *sign up daphne*
+	- [ ] *use invalid password*
+	- [ ] *use real password*
+- [ ] *log in*
+- [ ] *to the right we have instructions on what to do*
+- [ ] *add transactions*
+	- [ ] *notice that we cant access anything else when the window is up*
+- [ ] *edit transactions*
+	- [ ] *show how input is validated, text doesnt work in numbers*
+	- [ ] *empty input also doesnt work*
+	- [ ] *even if we x out the window, the app knows*
+	- [ ] *now the values change once we finish*
+- [ ] *deleting transactions are the same*
+- [ ] *look at side nav*
+	- [ ] *daphne is done for the day, we can signout*
+- [ ] **and lets say someone tries to log into her account**
+	- [ ] **we validate the user info, anyone with the wrong password doesnt work**
+	- [ ] **we also don't let anyone trying to sign up with the same name**
+- [ ] **now we can check an account with long term use...**
+	- [ ] **its helpful to search and filter transactions**
+	- [ ] **we can search from the details section**
+	- [ ] **or filter to only income, expenses, or other categories**
+- [ ] **also because we have a lot of transactions, we can see trends**
+- [ ] **using the side nav, we can easily go to the trends page shown under the pie chart icon**
+	- [ ] **shows trends because the pie chart follows the area principle...**
+	- [ ] **we see the categories with the most expenses/income in the customizable range**
+- [ ] **finally, we want a big summary report on our transactions**
+	- [ ] **notice that the download folder is empty**
+	- [ ] **we can hit the export button also on the side nav, and customize a range of transactions we want to see**
+	- [ ] **now we have a pdf we can print and use!**

@@ -39,14 +39,19 @@ $$
 	* but we dont have a second charge so lets try this...
 $$
 \begin{eqnarray}
-E &=& \frac{F}{q_2} \text{ => } F=Eq_2 \\
-&\text{or...}& \\
-E &=& \frac{kq_1}{r^2} \text{ for a point charge} \\
+E &=& \frac{kQ}{r^2} \text{, for a point charge, getting rid of q, as it's not there!} \\ \\
+F_e &=& k\frac{Qq}{r^2} \\&=& Eq \text{, substitute in E}\\
 \end{eqnarray}
 $$
 * so units of E are N/C (V/m is equiv, (Volts/meter))
+* if E and q are constant *(uniform electric field)*, then the force is constant, so acceleration is constant, so 1D motion equations work!
 * electrons, being negatively charged, will experience a force in the **opposite direction of the electric field**
-* protons will experience a force in the **same direction of the electric field** 
-* drawing fields
-	* lines go out of positive charges
-		* lines go in to negatives
+* protons will experience a force in the **same direction of the electric field**
+### drawing fields
+* filled with vector quantities created with test charges
+	* recall add vectors head to tail
+* all test charges are assumed to be positive
+* lines go out of positives
+* lines go in to negatives
+* lines never cross!
+* lines leave and enter the surface of a charge at a perpendicular angle
