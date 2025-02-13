@@ -11,3 +11,5 @@ p = pico &=& 10^{-12}
 $$
 mass (kg) != weight (newtons)
 * an object will have a mass of 8.17kg, it does not weigh 8.17kg
+* weight = mg
+* mass = m
