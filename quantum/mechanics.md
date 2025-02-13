@@ -127,3 +127,10 @@ $$
 	* our examples will be getting the right pieces in the right place
 * graphical approach
 	* the area of a Force v. Time graph represents the impulse
+### gravity
+$$
+\text{Gravitational Formula: } F_G = G\frac{m_1 m_2}{r^2} \\
+$$
+* formula to solve for gravity between two masses
+	* helpful for planets
+	* gravity at small scales are irrelevant however (protons, electrons)

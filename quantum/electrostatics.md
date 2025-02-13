@@ -25,6 +25,7 @@ $$
 # fields
 * electric fields, the area of influence surrounding a charged object
 	* measured as **vector quantities**
+	* will be manifested by any charge
 * any other **charged object in an electric field** *will* **experience a force**
 $$
 \begin{eqnarray}
