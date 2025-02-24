@@ -53,7 +53,7 @@ $$
 \begin{eqnarray}
 F_B &=& F_c \\ \\
 qv \times B &=& \frac{mv^2}{R} \\ \\
-\frac{q}{m} &=& \frac{v}{Bsin \theta R}
+\frac{q}{m} &=& \frac{v}{BR}
 \end{eqnarray}
 $$
 * at the end, we have the "charge-to-mass" ratio on the left

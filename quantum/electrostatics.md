@@ -56,3 +56,7 @@ $$
 * lines go in to negatives
 * lines never cross!
 * lines leave and enter the surface of a charge at a perpendicular angle
+$$
+E = Voltage/distance
+$$
+* voltage, potential difference between two points in an electric field
