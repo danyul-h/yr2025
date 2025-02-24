@@ -31,7 +31,7 @@ $$
 \begin{eqnarray}
 &F = Eq& \\
 \text{a charge in some known electric field:}&q& \\
-\text{the known electric field:}&E& \\
+\text{the known electric field:}&E& : \frac{N}{C}\\
 \text{the force the charged object experiences:}&F&
 \end{eqnarray} \\ \\
 $$

@@ -1,4 +1,4 @@
-* a charged particle in an electric field feels an electric force
+ * a charged particle in an electric field feels an electric force
 * a moving charged particle in a magnetic field will feel a magnetic force
 * a velocity selector will allow us to tune/select a particle moving at a particular speed
 * so we can find only particles that werent deflected (so the forces balanced)
