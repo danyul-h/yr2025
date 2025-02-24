@@ -27,7 +27,7 @@ $$
 \end{eqnarray}
 $$
 * SI unit for magnetic fields is the Tesla (T)
-	* Guass is another unit
+	* Gauss is another unit
 * Tesla is based on the Amp
 	* Amp is a unit of current, how much charge is flowing every second
 	* So a 1 Tesla magnetic field would be very large
