@@ -9,9 +9,11 @@ v_f^2 &=& v_o^2 + 2ad
 \end{eqnarray}
 }
 $$
+
 ### dynamics
 * looking at how net (or unbalanced) forces cause acceleration
 * governed by...
+
 $$
 \displaylines{
 \text{Newton's Laws of Motion} \\
@@ -22,8 +24,9 @@ $$
 \end{eqnarray}
 }
 $$
-	* Law of Inertia
-		* "Unless a net force acts on it, an object at rest will stay at rest, and a object in motion will stay in motion"
+
+* Law of Inertia
+	* "Unless a net force acts on it, an object at rest will stay at rest, and a object in motion will stay in motion"
 	* More force, more acceleration / More mass, less acceleration
 	* For every action, there is an equal and opposite reaction
 		* ex: a book resting on a table (book applies a downward force, gravity, while the table exerts an equal and opposite force back on the book, like a compressed spring)
@@ -38,6 +41,7 @@ $$
 	* changes direction (towards centripetal accel), but constant magnitude
 	* so speed is constant
 	* so v in circular motion is speed, not velocity
+
 $$
 \begin{eqnarray}
 \text{Speed} = v &=& \frac{d}{t} \text{ so...} \\ \\
@@ -45,10 +49,12 @@ $$
 \text{Centripetal Acceleration} = a_c &=& \frac{v^2}{r}
 \end{eqnarray}
 $$
+
 * centripetal force
 	* NOT A FORCE WE LABEL
 	* instead, there should be an unbalanced force that points to the center of the circular path
 		* could be tension from a string
+
 $$
 \displaylines{
 \text{using newton's second law + centripetal accel} = \frac{v^2}{r}  \\ \\
@@ -58,21 +64,25 @@ F &=& ma \\
 \end{eqnarray}
 }
 $$
+
 ### work
 * the ability to change the energy of a system, coming from an external force
 * units: Joules (J)
+
 $$
 \begin{eqnarray}
 W &=& F_{\parallel}d\\
 W &=& Fdcos\theta
 \end{eqnarray}
 $$
+
 * the parallel refers to the direction of displacement
 	* we only want the component of force in that direction
 * the angle in the second equation is the angle between the force and the displacement
 	* comes from the dot product
 ### energy
 * units: Joules (J)
+
 $$
 \begin{eqnarray}
 \text{Kinetic Energy} = KE &=& \frac{1}{2}mv^2 \\
@@ -80,6 +90,7 @@ $$
 \text{Spring/Elastic Potential Energy} = PE_s &=& \frac{1}{2}kx^2
 \end{eqnarray}
 $$
+
 * any object with mass moving at any speed will have kinetic energy
 * potential energy is stored energy
 	* it has the potential to become other types of energy (i.e. kinetic energy)
@@ -93,26 +104,30 @@ $$
 	* energy may flow, transform, but the total must remain constant
 * in problems involving friction, sliding produces heat *(thermal energy)*
 	* relating total energy at the start to the finish would look like this...
+
 $$
 \begin{eqnarray}
 E_o &=& E_f \\
 KE_o+PE_o &=& KE_f+PE_f + W_f\\
 \end{eqnarray}
 $$
-	* total energy is still conserved but...
-		* start ME will be greater than final ME
-		* bc some energy will become heat due to friction, a non-conservative force
+
+* total energy is still conserved but...
+	* start ME will be greater than final ME
+	* bc some energy will become heat due to friction, a non-conservative force
 ### momentum
 * a property of objects with mass and velocity
 * it is a vector quantity, so direction matters
 
 $$\text{momentum} = \vec{p} = m\vec{v} = \text{stuff (m), moving(}\vec{p})$$
 $$\text{units} = \frac{kg*m}{s}$$
+
 ### impulse
 * causes changes in momentum
 	* gets our "stuff" to "move"
 	* meaning a force was applied to an object for a period of time
 	* that force is called an impulse
+
 $$
 \begin{eqnarray}
 && \text{units } &=& Ns \\
@@ -123,14 +138,17 @@ $$
 \text{divide by t, and get newton's second law: }&:& \vec{F} &=& ma
 \end{eqnarray}
 $$
+
 * in reality, many impulses are delivered in very short amounts of time
 	* our examples will be getting the right pieces in the right place
 * graphical approach
 	* the area of a Force v. Time graph represents the impulse
 ### gravity
+
 $$
 \text{Gravitational Formula: } F_G = G\frac{m_1 m_2}{r^2} \\
 $$
+
 * formula to solve for gravity between two masses
 	* helpful for planets
 	* gravity at small scales are irrelevant however (protons, electrons)
