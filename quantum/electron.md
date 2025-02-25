@@ -4,6 +4,7 @@
 * so we can find only particles that werent deflected (so the forces balanced)
 * so we can find the velocity via calculations
 	* you can't measure it since its so fast, everything in the experiment is on such a small scale!
+
 $$
 \begin{eqnarray}
 F_B &=& F_E \\
@@ -12,5 +13,6 @@ vB &=& E \\
 v &=& \frac{E}{B}
 \end{eqnarray}
 $$
+
 * so velocity is the [[electrostatics|electric field]] over the [[magnetism|magnetic field]]
 * its possible for the 

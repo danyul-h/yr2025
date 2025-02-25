@@ -12,6 +12,7 @@ $$
 * and drag goes opposite the direction of movement
 * eventually, because of drag, we aren't accelerating anymore because of balanced forces
 	* we get a *terminal* (final) velocity
+
 $$
 \begin{eqnarray}
 \text{Weight measured} = W_{true}-F_B

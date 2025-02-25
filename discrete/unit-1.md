@@ -37,6 +37,7 @@ $$
 * our domain of discourse can change results
 	* something may be true under the domain of complex numbers 
 	* while the same thing is false under real numbers
+
 $$
 \begin{eqnarray}
 \exists &:& \text{There exists...} \\
