@@ -15,18 +15,21 @@ $$
 	* so using 1d motion wont work
 	* so you need to use energy methods
 	* the only exception is if a particle is in a uniform field
+
 $$
 \begin{eqnarray}
 V &=& Ed \\
 E &=& \frac{Voltage}{displacement} : \frac{Volts}{meters} 
 \end{eqnarray}
 $$
+
 * voltage, potential difference between two points in an electric field
 ### capacitors
 * devices used to store charge
 * generally play a role in the rapid release of energy
 * Farads (F) for units
 * capacitances are usually small
+
 $$
 \begin{eqnarray}
 \text{Capacitance} : C &=& \frac{Q:Charge}{V:Voltage} \\ \\
