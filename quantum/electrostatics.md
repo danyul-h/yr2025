@@ -3,10 +3,12 @@ $$
 \text{Coulomb's Law: } F_e &=& k\frac{q_1q_2}{r^2}\\
 \text{Coulomb's Constant: } k &=& 9 * 10^9 \frac{Nm^2}{C^2} \\
 \text{Charge of an electron: } e &=& 1.6*10^{-19} C \\
-\text{Mass of a proton: } m_p &=& 1.67*10^{-27} kg \\
-\text{Mass of an electron: } m_e &=& 9.11*10^{-31} kg \\
+\text{Mass of a proton: } m_p &=& 1.67 * 10 ^{-27} kg \\
+\text{Mass of an electron: } m_e &=& 9.11 * 10 ^{-31} kg
 \end{eqnarray}
 $$
+
+
 * electrostatics
 	* electro -> having to do with electricity *(looking at **charges**)*
 	* statics -> static, as in NOT moving *(looking at **non-flowing** charge)*
@@ -27,6 +29,7 @@ $$
 	* measured as **vector quantities**
 	* will be manifested by any charge
 * any other **charged object in an electric field** *will* **experience a force**
+
 $$
 \begin{eqnarray}
 &F = Eq& \\
@@ -35,15 +38,19 @@ $$
 \text{the force the charged object experiences:}&F&
 \end{eqnarray} \\ \\
 $$
+
 * how to find E, the electric field?
 	* idea: use imagination + coulomb's law...
 	* but we dont have a second charge so lets try this...
+
 $$
 \begin{eqnarray}
 E &=& \frac{kQ}{r^2} \text{, for a point charge, getting rid of q, as it's not there!} \\ \\
-F_e &=& k\frac{Qq}{r^2} \\&=& Eq \text{, substitute in E}\\
+F_e &=& k\frac{Qq}{r^2} \\ 
+&=& Eq \text{, substitute in E}\\
 \end{eqnarray}
 $$
+
 * so units of E are N/C (V/m is equiv, (Volts/meter))
 * if E and q are constant *(uniform electric field)*, then the force is constant, so acceleration is constant, so 1D motion equations work!
 * electrons, being negatively charged, will experience a force in the **opposite direction of the electric field**
