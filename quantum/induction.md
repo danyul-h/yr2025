@@ -22,7 +22,7 @@ $$
 	* so total area is number of loops times area
 ### faraday's law of induction
 $$
-E = -\frac{\Delta \Phi_B}{\Delta t} = \frac{B \Delta A}{\Delta t} = \frac{Blv \Delta t}{\Delta t} = Blv
+\varepsilon = -\frac{\Delta \Phi_B}{\Delta t} = \frac{B \Delta A}{\Delta t} = \frac{Blv \Delta t}{\Delta t} = Blv
 $$
 * E the **induced electromotive force**, is just a fancy name for voltage
 * using left and right hand rules we can predict the direction of the charges
