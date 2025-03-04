@@ -8,7 +8,6 @@ $$
 \end{eqnarray}
 $$
 
-
 * electrostatics
 	* electro -> having to do with electricity *(looking at **charges**)*
 	* statics -> static, as in NOT moving *(looking at **non-flowing** charge)*
