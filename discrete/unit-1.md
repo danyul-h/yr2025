@@ -22,9 +22,9 @@ $$
 ### propositional logic
 $$
 \begin{eqnarray}
-&& P \implies Q \equiv \lnot P \lor Q \\
-\text{Law of Addition} &:& P \implies (P \lor Q) \equiv T \\
-\text{Law of Simplification} &:& (P \land Q) \implies P \equiv T \\
+P \implies Q &\Leftrightarrow& \lnot P \lor Q \\
+\text{Law of Addition} : P \implies (P \lor Q) &\Leftrightarrow& T \\
+\text{Law of Simplification} : (P \land Q) \implies P &\Leftrightarrow& T \\
 \end{eqnarray}
 $$
 * something is **vacuously true** when it is true because the **antecedent** is false
@@ -44,10 +44,10 @@ $$
 \begin{eqnarray}
 \exists &:& \text{There exists...} \\
 \forall &:& \text{For all...}\\ \\
-\exists x P(x) &\equiv& P(a_1) \lor P(a_2) \lor ...\lor P(a_n) \lor... \\
-\forall x P(x) &\equiv& P(a_1) \land P(a_2) \land ...\land P(a_n) \land... \\ \\
-\lnot \exists x P(x) &\equiv& \forall x \lnot P(x) \\
-\lnot \forall x P(x) &\equiv& \exists x \lnot P(x)
+\exists x P(x) &\Leftrightarrow& P(a_1) \lor P(a_2) \lor ...\lor P(a_n) \lor... \\
+\forall x P(x) &\Leftrightarrow& P(a_1) \land P(a_2) \land ...\land P(a_n) \land... \\ \\
+\lnot \exists x P(x) &\Leftrightarrow& \forall x \lnot P(x) \\
+\lnot \forall x P(x) &\Leftrightarrow& \exists x \lnot P(x)
 \end{eqnarray}
 $$
 ### divisibility
