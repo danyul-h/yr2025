@@ -4,6 +4,8 @@ $$
 \begin{eqnarray}
 A &=& \{1, 2\} \\
 B &=& \{a, b, c\} \\ \\
+\text{Two sets C and D are disjoint iff} &:& C \cap D = \varnothing \\ \\ 
+\text{Complement of a set} &:& \bar{A} : A' : \text{All elements in universal set that is not in set A} \\ \\
 \text{Intersection of all sets} &:& \bigcap_{i}{S_i} = \{s \mid s \in S_j \text{ for all j}\} \\
 \text{Union of all sets} &:& \bigcup_{i}{S_i} = \{s \mid s \in S_j \text{ for some j}\} \\ \\
 \text{Cartesian Product} &:& A \times B = \{(x,y) \mid x \in A \land x \in B\}\\ 
