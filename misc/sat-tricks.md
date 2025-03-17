@@ -11,5 +11,25 @@
 | ![[Pasted image 20250316135417.png]]     | plug in equation, look at points on circle to get diameter, divide by 2 ![[Pasted image 20250316135456.png]]                                            |
 | ![[Pasted image 20250316135543.png]]     | plug in choices, guess and check by moving it back to f by subtracting x by 4 and seeing if it matches given graph ![[Pasted image 20250316135942.png]] |
 | ![[Pasted image 20250316140111.png]]     | plot both sides of equation, control a with a slider till the equation lines are parallel, ![[Pasted image 20250316140315.png]]                         |
-| ![[Pasted image 20250316140420.png]]     |                                                                                                                                                         |
+| ![[Pasted image 20250316140420.png]]     | plug in equation, move b with slider ![[Pasted image 20250316205113.png]]                                                                               |
+| ![[Pasted image 20250316205133.png]]     | plug in equation, move with slider ![[Pasted image 20250316205209.png]]                                                                                 |
+| ![[Pasted image 20250316205251.png]]     | plug in, check with slider ![[Pasted image 20250316205419.png]]                                                                                         |
+|                                          | ![[Pasted image 20250316205920.png]]                                                                                                                    |
 |                                          |                                                                                                                                                         |
+|                                          |                                                                                                                                                         |
+### other stuff
+
+$$
+\begin{eqnarray}
+\text{discriminant} &=& b^2 - 4ac  \\
+\text{sum of roots} &=& \frac{-b}{a} \\
+\text{product of roots} &=& \frac{c}{a}
+\end{eqnarray}
+$$
+
+* the discriminant
+	* if = 0, 1 real solution
+	* if >0, 2 real solutions
+	* if < 0, no real solutions
+
+
