@@ -41,19 +41,44 @@ left:
 
 ![[Pasted image 20250316231111.png]]
 > this is famously known as the hockey stick lemma, related to pascal triangle and finding sums with a hockey stick shape
+![[Pasted image 20250317230746.png]]
 
 free vars: n, r
 intro:
 * there are n+1 pots in a line
 * there are r+1 flowers
+* while the left most pot is at position 1, while the right most pot is at position n+1 
 claim:
 * both sides count the amount of ways to put the flowers into the lined up pots
 right:
 * there are C(n+1, r+1) ways to choose r+1 pots to fill with flowers from the total n+1 pots
 left:
-* partition by the amount of 
+* partition by the amount of pots to the left of the last flower, if the last flower will always have the greatest position out of all the flowers placed
+	* so we already chose where to place 1 flower, meaning there are r left to place, and there can be at most n pots left if the last flower is placed at n+1
+* suppose k is the amount of pots to the left of the last flower
+* there are C(k, r) ways to choose r pots to fill the remaining k pots
 ### hw due 3/18, p.238
 > 13, 18, 19
+
+![[Pasted image 20250317220728.png]]
+free vars: n, y
+intro:
+* there are n kids
+* we have y different donut flavors
+* we also have one ice cream flavor
+* we want to give everyone but one kid to get a treat
+* the treat can be either the ice cream or one of the y donut flavors
+claim:
+* both sides count they number of ways we divvy up the treats to the kids
+left:
+* choose one of the n kids to not get a treat
+* there are (1+y)^(n-1) ways for all of the n-1 remaining children to select a treat from the 1+y options available to them
+right:
+* partition by the amount of people who don't get the ice cream
+* let r be the number of people who don't get the ice cream
+* there are C(n, r) ways to select r kids to not get the ice cream from the n total kids
+* for each of the C(n, r) ways, there are r ways to choose one of the kids who don't get the ice cream to not get anything at all
+* for each of those ways, there are y^(r-1) ways for all of the r-1 children who must be getting donuts to select from the y options of donut flavoring
 
 ![[Pasted image 20250316215602.png]]
 free vars: n, r {0 <= r <= n}
@@ -67,3 +92,13 @@ lhs:
 * partition by the difference in the amount of cars we have and the amount of cars we want to paint
 * let k be the difference
 * so there are C(r+k, r) ways to paint r cars from the r+k cars
+
+![[Pasted image 20250317230342.png]]
+* n red people
+* n blue people
+* big party
+* either they go or dont
+* both sides count how many ways the 2n people can go to the party
+* right duh 
+* left
+	* 
