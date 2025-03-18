@@ -17,7 +17,7 @@
 	* note that harm is to overall performance
 		* their results show that it would "be a mistake" to view the harm to specific applicants as balanced against the gains in overall accuracy
 			* specific applicants, referring to those that are "locked out of the market" by the shared algorithms
-### how it was done
+### how it was done...
 * focus on algorithmic hiring
 	* recruiters make decisions based in part on scores or recommendations
 	* these scores/recs are from data-driven algorithms
@@ -28,3 +28,16 @@
 	* if both select from algorithmic ranking, it is randomly selected which one gets the first, and then the other gets the second hire
 
 ![[Pasted image 20250316235008.png]]
+
+### modeling ranking
+![[Pasted image 20250317103331.png]]
+![[Pasted image 20250317103233.png]]
+* there are n candidates
+* every i candidate has an x sub i intrinsic value
+* employers will get this value from hiring candidate i
+* candidate 1 will have x sub 1, and x sub 1 is greater than x sub 2 and so forth
+* but these values are unknown to the employer
+	* instead they use a noisy procedure to rank the candidates
+	* let randomized mechanism R take in the true candidate values
+	* then R will create a permutation pi of those candidates from some distribution
+* a nosiy permutation family, F theta, is a family of distributions over 

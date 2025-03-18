@@ -33,21 +33,25 @@ right:
 * choose one of the n blue people to live in a castle
 * for the n ways to select the person with the castle, there are C(2n-1, n-1) ways to choose the remaining n-1 people with homes from the remaining 2n-1 people in the kingdom
 left:
-* partition by the amount of people that are blue and we select to have homes
-* let k be the amount of people that are blue and we select to have homes
+* partition by the number of blue people who get homes
+* suppose exactly k blue people get homes, which is atleast one because there has to be someone with the castle
 * there are C(n, k) ways to select k of the n blue people to have a home
 * for each of the C(n, k) ways, there are k ways to select 1 person from the k blue people with homes to have a castle
 * for each of those k ways, there are C(n, k) ways to select k of the n red people to be homeless, meaning the rest have homes
 
 ![[Pasted image 20250316231111.png]]
+> this is famously known as the hockey stick lemma, related to pascal triangle and finding sums with a hockey stick shape
+
 free vars: n, r
 intro:
-* there are n+1 cars
-* we want to paint r+1 of those cars
+* there are n+1 pots in a line
+* there are r+1 flowers
 claim:
-* both sides count the amount of ways to paint the cars
+* both sides count the amount of ways to put the flowers into the lined up pots
 right:
-
+* there are C(n+1, r+1) ways to choose r+1 pots to fill with flowers from the total n+1 pots
+left:
+* partition by the amount of 
 ### hw due 3/18, p.238
 > 13, 18, 19
 
