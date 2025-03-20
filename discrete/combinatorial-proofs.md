@@ -83,15 +83,21 @@ right:
 ![[Pasted image 20250316215602.png]]
 free vars: n, r {0 <= r <= n}
 intro:
-* we have n+1 cars
-* we select r+1 of them to paint with mr. rose's face on it
-claim: both sides count the number of ways we can select cars to paint
+* we have n+1 pots lined up
+	* they're ordered such that the most left position is 1, while the right most is n+1
+* we select r+1 of them fill with flowers
+claim: 
+* both sides count the number of ways we can select pots to insert flowers
 rhs:
-* choose r+1 cars from our n+1 total cars to paint
+* choose select r+1 pots to fill with flowers from the total n+1 pots
 lhs:
-* partition by the difference in the amount of cars we have and the amount of cars we want to paint
-* let k be the difference
-* so there are C(r+k, r) ways to paint r cars from the r+k cars
+* partition by the amount of empty spaces in between the last flower and first flower
+* let k be the amount of empty spaces in between the last flower and first flower
+	* at most, k should be n-r, if the last flower is at the n+1 position, there are there are n positions to the left and r of those will be taken by the remaining flowers, so n-r empty spaces
+	* n-r = (n+1 - 2) - (r+1  - 2)
+* there are C(r+k, r) ways to choose where the remaining r flowers from the r+k range of pots
+* with the way we partition,
+	* note that the last flower should automatically be r+k positions to the right of the first flower
 
 ![[Pasted image 20250317230342.png]]
 * n red people
@@ -99,6 +105,13 @@ lhs:
 * big party
 * either they go or dont
 * both sides count how many ways the 2n people can go to the party
-* right duh 
-* left
+* right
+	* there is a way such that 1 person has already made their choice
+	* and the rest have a binary choice
 	* 
+* left
+	* we have a group of 2n+1 people
+	* partition by how many people come overall
+	* max of n
+	* either 0, 1, 2, 3, ..., n-1, n people go
+* 
