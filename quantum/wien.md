@@ -14,7 +14,7 @@
 * nm = x10^-9
 
 $$
-\text{Wavelength of Maximum Intensity (cm)} = \frac{0.29}{T(\degree K)}
+\text{Wavelength of Maximum Intensity (cm)} = \frac{0.29}{T(Kelvin)}
 $$
 
 * wavelength of maximum intensity, meaning wavelength where the spectrum peaks
