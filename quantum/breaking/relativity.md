@@ -82,7 +82,7 @@ $$
 * they also travel very fast
 	* travel towards earth at v = 0.99998c with a starting height of 50km
 	* the 50km is from our perspective
-* but since d=Vt and we plug in c for v and the lifetime of the muon, we get 600m, not 50km
+* but since d=vt and we plug in c for v and the lifetime of the muon, we get 600m, not 50km
 	* so muons shouldnt be detected.
 	* but they get detected all the time
 	* but when we use gamma things are fine

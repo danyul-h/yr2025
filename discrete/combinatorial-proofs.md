@@ -1,3 +1,5 @@
+![[Pasted image 20250327084323.png]]
+there are n people. only two of them have purple skin. we want to select k people from the n people. rhs: by def. lhs: we partition by the number of purple skinned people we select. if we select none, there are 3rdC ways to select k people from the remaining n-2 people. If we select one, there are 2 ways to select one of the two purple skins, and for each of those ways there are 2ndC ways to select the remaining k-1 people from the nonpurple n-2 people. If we select both the two purple skins, there are 1stC ways to select the remaning k-2 people from the n-2 non purple people.
 ### hw due 3/17, p.237
 > 17, 16, 8
 
