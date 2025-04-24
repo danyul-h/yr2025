@@ -4,7 +4,7 @@
 * break
 * 2 essays 100 mins
 	* dbq
-	* laq
+	* leq
 * dbq
 	* rec 60 mins
 	* req 4 docs (aim for 5)
